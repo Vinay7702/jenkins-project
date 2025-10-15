@@ -12,7 +12,7 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
      freestyle deployment completed By Vinay Kumar
 </h1>
-<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
      nexus is integrated with jenkins successfully
 </h1>
 </body>
